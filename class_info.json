@@ -1,0 +1,11 @@
+{
+    "num_classes": 7,
+    "classes": [
+        "branch",
+        "file",
+        "flask",
+        "search",
+        "setting",
+        "user"
+    ]
+}
